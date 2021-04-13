@@ -1,0 +1,16 @@
+Enter keystore password:  farah123456
+Re-enter new password: farah123456
+What is your first and last name?
+  [Unknown]:  farah
+What is the name of your organizational unit?
+  [Unknown]:  farah
+What is the name of your organization?
+  [Unknown]:  farah
+What is the name of your City or Locality?
+  [Unknown]:  Algeria
+What is the name of your State or Province?
+  [Unknown]:  blida
+What is the two-letter country code for this unit?
+  [Unknown]:  FH
+Is CN=farah, OU=farah, O=farah, L=Algeria, ST=blida, C=FH correct?
+  [no]:  
